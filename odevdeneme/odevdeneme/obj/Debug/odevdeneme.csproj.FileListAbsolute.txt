@@ -1,0 +1,9 @@
+C:\Users\kutay yaman\source\repos\odevdeneme\odevdeneme\bin\Debug\odevdeneme.exe.config
+C:\Users\kutay yaman\source\repos\odevdeneme\odevdeneme\bin\Debug\odevdeneme.exe
+C:\Users\kutay yaman\source\repos\odevdeneme\odevdeneme\bin\Debug\odevdeneme.pdb
+C:\Users\kutay yaman\source\repos\odevdeneme\odevdeneme\obj\Debug\odevdeneme.csprojAssemblyReference.cache
+C:\Users\kutay yaman\source\repos\odevdeneme\odevdeneme\obj\Debug\odevdeneme.Properties.Resources.resources
+C:\Users\kutay yaman\source\repos\odevdeneme\odevdeneme\obj\Debug\odevdeneme.csproj.GenerateResource.cache
+C:\Users\kutay yaman\source\repos\odevdeneme\odevdeneme\obj\Debug\odevdeneme.csproj.CoreCompileInputs.cache
+C:\Users\kutay yaman\source\repos\odevdeneme\odevdeneme\obj\Debug\odevdeneme.exe
+C:\Users\kutay yaman\source\repos\odevdeneme\odevdeneme\obj\Debug\odevdeneme.pdb
