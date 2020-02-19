@@ -10,21 +10,6 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 
-/****************************************************************************
-**					SAKARYA ÜNİVERSİTESİ
-**				BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
-**				    BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
-**				   NESNEYE DAYALI PROGRAMLAMA DERSİ
-**					2014-2015 BAHAR DÖNEMİ
-**	
-**				ÖDEV NUMARASI..........:1
-**				ÖĞRENCİ ADI............:Kutay	
-**				ÖĞRENCİ NUMARASI.......:B171210074
-**              DERSİN ALINDIĞI GRUP...: D
-****************************************************************************/
-
-
-
 
 
 namespace odevdeneme
